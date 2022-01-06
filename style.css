@@ -2,6 +2,14 @@
     color: orange;
 }
 
+h1{
+    font-size: 50px;
+}
+
+h2{
+    text-align: center;
+}
+
 body{
     font-family: 'Mukta', sans-serif;
     font-size: 20px;
@@ -48,16 +56,13 @@ section{
     margin-top: -100px;
 }
 
-h2{
-    text-align: center;
-}
+
 
 .mission-2022{
     
     border: 1px solid lightgray;
     padding: 40px;
     border-radius: 5px;
-    width:40%;
     margin-right: 50px;
 }
 
@@ -71,14 +76,17 @@ width: 100px;
 
 #mission{
     background-color:rgba(237, 245, 236, 0.952);
+    width: 33%;
 }
 
 #vission{
     background-color: rgb(237, 206, 209);
+    width: 34%;
 }
 
 #goal{
     background-color: rgb(248, 243, 201);
+    width: 33%;
 }
 
 .img-left{
@@ -88,7 +96,7 @@ width: 100px;
     
 }
 
-#develop{
+#develop-photo{
     margin-left: -300px;
     margin-top: 150px;
 }
@@ -100,7 +108,7 @@ width: 100px;
 
 
 
-#community{
+#community-photo{
     margin-top: 10px;
 }
 
@@ -110,7 +118,7 @@ width: 100px;
     width: 300px;
 }
 
-.color2{
+.mission-color2{
     color:rgb(238, 10, 86);
 }
 
