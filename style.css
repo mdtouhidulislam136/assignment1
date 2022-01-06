@@ -1,0 +1,123 @@
+.color{
+    color: orange;
+}
+
+body{
+    font-family: 'Mukta', sans-serif;
+    font-size: 20px;
+    margin-left: 50px;
+   
+}
+
+.border{
+    border-left: 3px solid red;
+    padding-left: 10px;
+    border-radius: 2px;
+    
+}
+
+
+.button{
+    text-decoration: none;
+    color: white;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: red;
+    opacity: 0.7;
+    
+}
+
+section{
+    display: flex;
+    margin-top: 10px;
+
+}
+
+.half-width{
+    width: 50%;
+    margin-top: 70px;
+    
+    
+}
+
+.img-right{
+    width: 400px;
+    margin-left: 200px;
+    margin-top: -100px;
+}
+
+h2{
+    text-align: center;
+}
+
+.mission-2022{
+    
+    border: 1px solid lightgray;
+    padding: 40px;
+    border-radius: 5px;
+    width:40%;
+    margin-right: 50px;
+}
+
+.mission-img{
+width: 100px;
+ margin-left: -20px;
+
+}
+
+
+
+#mission{
+    background-color:rgba(237, 245, 236, 0.952);
+}
+
+#vission{
+    background-color: rgb(237, 206, 209);
+}
+
+#goal{
+    background-color: rgb(248, 243, 201);
+}
+
+.img-left{
+    margin: 0;
+    margin-top: 50px;
+    width: 400px;
+    
+}
+
+#develop{
+    margin-left: -300px;
+    margin-top: 150px;
+}
+
+#gocorona-text{
+    margin-left: -400px;
+    margin-top: 100px;
+}
+
+
+
+#community{
+    margin-top: 10px;
+}
+
+#corona-img{
+    margin-top: -60px;
+    margin-left: 0%;
+    width: 300px;
+}
+
+.color2{
+    color:rgb(238, 10, 86);
+}
+
+.footer{
+    margin-top: 100px;
+    width: 100%;
+    background-color:black;
+    text-align: center;
+    color: white
+}
